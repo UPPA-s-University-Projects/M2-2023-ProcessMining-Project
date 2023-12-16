@@ -4,17 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1baf3b49-3bbb-4e5b-89c8-56fc975e812b" name="Changes" comment="Init commit">
-      <change afterPath="$PROJECT_DIR$/hospital.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lending.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renting.ipynb" afterDir="false" />
+    <list default="true" id="1baf3b49-3bbb-4e5b-89c8-56fc975e812b" name="Changes" comment="Finish all 4 datasets process mining">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hiring.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hospital.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lending.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lending.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/renting.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,19 +38,22 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2Zc4TvCDwaQqHAuWZqV5co8riGp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/clementcombier/ProjectsDatabases"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/clementcombier/ProjectsDatabases&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -63,7 +71,9 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+    <MESSAGE value="Finish all 4 datasets process mining" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish all 4 datasets process mining" />
   </component>
 </project>
