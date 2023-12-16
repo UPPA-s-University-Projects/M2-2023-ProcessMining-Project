@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1baf3b49-3bbb-4e5b-89c8-56fc975e812b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ProjectsDatabases.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/hiring_log_high.xes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/hospital_log_high.xes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/lending_log_high.xes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/renting_log_high.xes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hiring.ipynb" afterDir="false" />
+    <list default="true" id="1baf3b49-3bbb-4e5b-89c8-56fc975e812b" name="Changes" comment="Init commit">
+      <change afterPath="$PROJECT_DIR$/hospital.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lending.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hiring.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/clementcombier/ProjectsDatabases"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/datasets" />
     </key>
@@ -63,4 +62,8 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+  </component>
 </project>
